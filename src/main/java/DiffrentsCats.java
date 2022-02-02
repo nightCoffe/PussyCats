@@ -62,12 +62,12 @@ public class DiffrentsCats {
         }
 
         public void sayHello() {
-            System.out.println("Hello, my name " + secondName + " " + firstName + ", I'm " + age + " years old, my weight "
-                    + weight + " and my color " + color + ".");
+            System.out.println("Hello, my name is " + secondName + " " + firstName + ", I'm " + age + " years old, my weight is "
+                    + weight + " and my color is " + color + ".");
         }
 
         public void sayName() {
-            System.out.println("My name " + secondName + " " + firstName);
+            System.out.println("My name is" + secondName + " " + firstName);
         }
 
         public void sayGoodWish() {
